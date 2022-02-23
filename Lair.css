@@ -1,0 +1,80 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 930px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 32px;
+  height: 32px;
+  background-image: url("images/favicon-32x32.png");
+  background-position: 50% 50%;
+  margin: 386px auto 0 265px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: normal;
+  margin: -38px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 30px auto 60px;
+  padding: 6px 31px 6px 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 329px;
+    margin-left: 166px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 113px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 328px;
+    margin-left: 57px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -37px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 780px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 329px;
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -38px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 112px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 804px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 298px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -8px;
+  }
+}
